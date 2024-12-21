@@ -1,0 +1,14 @@
+digraph G {
+    "c92255f0d4a6168dce5ad8dccb186dd6415b813a" [shape=box, style=filled, color=lightblue]
+    "Pedik Keyboard.exe" [shape=ellipse]
+    "c92255f0d4a6168dce5ad8dccb186dd6415b813a" -> "Pedik Keyboard.exe"
+    "src/pedik.mp3" [shape=ellipse]
+    "c92255f0d4a6168dce5ad8dccb186dd6415b813a" -> "src/pedik.mp3"
+    "src/main.py" [shape=ellipse]
+    "c92255f0d4a6168dce5ad8dccb186dd6415b813a" -> "src/main.py"
+    "src/pedik.ico" [shape=ellipse]
+    "c92255f0d4a6168dce5ad8dccb186dd6415b813a" -> "src/pedik.ico"
+    "92224111f7d5e8217e5f9cff0dfed1cc8b074ea9" [shape=box, style=filled, color=lightblue]
+    "README.md" [shape=ellipse]
+    "92224111f7d5e8217e5f9cff0dfed1cc8b074ea9" -> "README.md"
+}
